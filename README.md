@@ -3,15 +3,15 @@ Dataset: Raw social media posts containing text, sentiment labels, timestamps, u
 
 Tasks Performed:
 
-Loaded and explored dataset using pandas.
+-Loaded and explored dataset using pandas.
 
-Handled missing values through imputation/removal strategies.
+-Handled missing values through imputation/removal strategies.
 
-Removed duplicate records to ensure data integrity.
+-Removed duplicate records to ensure data integrity.
 
-Standardized inconsistent formats (dates, categorical values, text fields).
+-Standardized inconsistent formats (dates, categorical values, text fields).
 
-Prepared a clean dataset ready for further analysis or modeling.
+-Prepared a clean dataset ready for further analysis or modeling.
 
 Objectives:
 ✔ Improve data quality for accurate analysis.
